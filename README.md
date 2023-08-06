@@ -5,16 +5,19 @@ Presentation of Swift Projects that I undertook while completing Stanford's CS19
 ## Set!
 * Link: [Repository](https://github.com/nipunaw/SetGame)  
 * Description: Replicated the game of [Set](https://en.wikipedia.org/wiki/Set), allowing users to deal cards and make matches (with animation)
+
 <img width="270" src="https://github.com/nipunaw/Swift/blob/main/Photos/SetGame_1.png?raw=true"><img width="270" src="https://github.com/nipunaw/Swift/blob/main/Photos/SetGame_2.png?raw=true"><img width="270" src="https://github.com/nipunaw/Swift/blob/main/Photos/SetGame_3.png?raw=true">
 
 ## Emoji Art
 * Link: [Repository](https://github.com/nipunaw/EmojiArt)  
 * Description: Created a multi-platform document app that allows users to drag in images and emojis while supporting pinching, scaling, and panning
+
 <img width="900" src="https://github.com/nipunaw/Swift/blob/main/Photos/EmojiArt_1.png?raw=true"><img width="900" src="https://github.com/nipunaw/Swift/blob/main/Photos/EmojiArt_2.png?raw=true">
 
 ## Memorize
 * Link: [Repository](https://github.com/nipunaw/Memorize)  
 * Description: Designed a memory matching game that presents users with various themes to choose, edit, and create
+
 <img width="270" src="https://github.com/nipunaw/Swift/blob/main/Photos/Memorize_1.png?raw=true"><img width="270" src="https://github.com/nipunaw/Swift/blob/main/Photos/Memorize_2.png?raw=true"><img width="270" src="https://github.com/nipunaw/Swift/blob/main/Photos/Memorize_3.png?raw=true">
 
 ## Nakama
