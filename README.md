@@ -7,9 +7,7 @@ Presentation of Swift projects that I undertook while completing Stanford's CS19
 * **Description:** Replicated the game of [Set](https://en.wikipedia.org/wiki/Set), allowing users to deal cards and make matches (with animation)
 
 <figure>
-  <img width="270" src="https://github.com/nipunaw/Swift/blob/main/Photos/SetGame_1.png?raw=true">
-  <figcaption>Starting Screen</figcaption>
-  <img width="270" src="https://github.com/nipunaw/Swift/blob/main/Photos/SetGame_2.png?raw=true">
+  <img width="270" src="https://github.com/nipunaw/Swift/blob/main/Photos/SetGame_1.png?raw=true"><img width="270" src="https://github.com/nipunaw/Swift/blob/main/Photos/SetGame_2.png?raw=true">
   <figcaption>Incorrect Selection</figcaption>
   <img width="270" src="https://github.com/nipunaw/Swift/blob/main/Photos/SetGame_3.png?raw=true">
   <figcaption>Correct Selection</figcaption>
