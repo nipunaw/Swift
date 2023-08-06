@@ -16,7 +16,7 @@ Presentation of Swift Projects that I undertook while completing Stanford's CS19
 
 ## Memorize
 * **Link:** [Git Repo](https://github.com/nipunaw/Memorize)  
-* **Description:** Designed a memory matching game that presents users with various themes to choose, edit, and create
+* **Description:** Designed a memory matching game that presents users with various themes to choose, edit, and create along with smooth shuffle and scoring capabilities
 
 <img width="270" src="https://github.com/nipunaw/Swift/blob/main/Photos/Memorize_1.png?raw=true"><img width="270" src="https://github.com/nipunaw/Swift/blob/main/Photos/Memorize_2.png?raw=true"><img width="270" src="https://github.com/nipunaw/Swift/blob/main/Photos/Memorize_3.png?raw=true">
 
