@@ -1,4 +1,3 @@
-<img width="741" alt="EmojiArt_2" src="https://github.com/nipunaw/Swift/assets/10137038/7748b190-e771-42b3-9754-4b072e2380ec"># Swift Projects
 Collection of Swift Projects undertaken while I completed Stanford's CS193p - [Developing Apps for iOS](https://cs193p.sites.stanford.edu/)
 
 ## Set!
