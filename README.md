@@ -8,3 +8,4 @@ Collection of Swift Projects undertaken while I completed Stanford's CS193p - [D
 
 
 ## Emoji Art
+![Alt text][Photos/EmojiArt_1.png]
