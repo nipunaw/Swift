@@ -6,7 +6,7 @@ Presentation of Swift projects that I undertook while completing Stanford's CS19
 * **Link:** [Git Repo](https://github.com/nipunaw/SetGame)  
 * **Description:** Replicated the game of [Set](https://en.wikipedia.org/wiki/Set), allowing users to deal cards and make matches (with animation)
 
-<figure><img width="270" src="https://github.com/nipunaw/Swift/blob/main/Photos/SetGame_1.png?raw=true"></figure><figure><img width="270" src="https://github.com/nipunaw/Swift/blob/main/Photos/SetGame_2.png?raw=true"></figure><figure><img width="270" src="https://github.com/nipunaw/Swift/blob/main/Photos/SetGame_3.png?raw=true"></figure>
+<figure><img width="270" src="https://github.com/nipunaw/Swift/blob/main/Photos/SetGame_1.png?raw=true"><figcaption>Test</figcaption></figure><figure><img width="270" src="https://github.com/nipunaw/Swift/blob/main/Photos/SetGame_2.png?raw=true"></figure><figure><img width="270" src="https://github.com/nipunaw/Swift/blob/main/Photos/SetGame_3.png?raw=true"></figure>
 
 ## Emoji Art
 * **Link:** [Git Repo](https://github.com/nipunaw/EmojiArt)  
