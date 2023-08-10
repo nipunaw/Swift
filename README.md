@@ -1,6 +1,11 @@
-# Swift iOS Projects
+# Swift Projects
 
 Presentation of Swift projects that I undertook while completing Stanford's CS193p - [Developing Apps for iOS](https://cs193p.sites.stanford.edu/)
+
+SDKs:
+* iOS
+* iPadOS
+* visionOS
 
 ## Set!
 * **Link:** [Git Repo](https://github.com/nipunaw/SetGame)  
