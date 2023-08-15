@@ -1,6 +1,6 @@
-# Swift Projects
+# iShowcase
 
-Presentation of Swift projects that I undertook while completing Stanford's CS193p - [Developing Apps for iOS](https://cs193p.sites.stanford.edu/)
+Curation of Swift apps developed during and after Stanford’s CS193p course - [Developing Apps for iOS](https://cs193p.sites.stanford.edu/)
 
 SDKs explored: **iOS, iPadOS, visionOS**
 
