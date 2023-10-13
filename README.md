@@ -6,7 +6,7 @@ SDKs explored: **iOS, iPadOS, visionOS**
 
 ## Set!
 * **Link:** [Git Repo](https://github.com/nipunaw/SetGame)  
-* **Description:** Replicated the game of [Set](https://en.wikipedia.org/wiki/Set), allowing users to deal cards and make matches (with animation)
+* **Description:** Replicated the game of [Set](https://en.wikipedia.org/wiki/Set_(card_game)), allowing users to deal cards and make matches (with animation)
 
 <img width="270" src="https://github.com/nipunaw/Swift/blob/main/Photos/SetGame_1.png?raw=true"><img width="270" src="https://github.com/nipunaw/Swift/blob/main/Photos/SetGame_2.png?raw=true"><img width="270" src="https://github.com/nipunaw/Swift/blob/main/Photos/SetGame_3.png?raw=true">
 
